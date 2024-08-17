@@ -36,5 +36,5 @@ To exit:
 
 For more details, you can check out our YouTube video:
 ```
-https://youtu.be/F217CjIk9mEhttps://youtu.be/F217CjIk9mE
+https://youtu.be/F217CjIk9mE
 ```
